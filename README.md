@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Ronald Santana
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Java`**
 
 Olá, meu nome é Ronald. Tenho 20 anos e sou Dev Java.
 
