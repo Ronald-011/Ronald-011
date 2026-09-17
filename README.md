@@ -2,7 +2,12 @@
 
 **`Desenvolvedor Java`**
 
-Olá, meu nome é Ronald. Tenho 20 anos e sou desenvolvedor Java.
+Olá! Meu nome é Ronald Santana, tenho 20 anos e estou construindo minha carreira como desenvolvedor Java.
+
+Atualmente, dedico meus estudos ao desenvolvimento Back-end, com foco em Java, Spring Boot, APIs REST, bancos de dados e boas práticas de programação. Utilizo este perfil para compartilhar projetos acadêmicos, registrar minha evolução e aplicar, na prática, os conhecimentos adquiridos durante minha formação.
+
+Busco desenvolver soluções eficientes, bem estruturadas e que resolvam problemas reais.
+
 
 ---
 
