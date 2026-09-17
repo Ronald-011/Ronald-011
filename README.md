@@ -31,20 +31,8 @@ Olá, meu nome é Ronald. Tenho 20 anos e sou Dev Java.
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ronald-011&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 📊 Estatísticas
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-011&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ronald-011&show_icons=true&theme=transparent&locale=pt-br)
 
-</p>
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-011&layout=compact&theme=transparent&locale=pt-br)
